@@ -54,3 +54,18 @@ table {
 .part {
     margin-top: 6%;
 }
+
+#projects {
+    margin-left:auto;
+    margin-right:auto;
+    color: #202020;
+    font-size: 80%;
+    font-weight: bold;
+}
+
+.tagline {
+    font-weight: normal;
+}
+#projects td {
+    padding: 0 20px 5px 20px;
+}
